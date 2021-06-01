@@ -8,7 +8,9 @@ A importância deste material se dá em função da necessidade de avaliação d
 
 Os dados utilizados neste estudo foram fornecidos pela Tembici, empresa que operava o sistema , no formato pdf em um relatório. Devido a disponibilidade de dados, foram consideradas as viagens realizadas entre janeiro de 2018 e outubro de 2019.
 
-A base de dados foi estruturada no Excel; as análises exploratórias e criação de gráficos foram feitas utilizando o software Tableau; e os mapas foram construídos utilizando QGIS. 
+- A base de dados foi estruturada no Excel; 
+- As análises exploratórias e criação de gráficos foram feitas utilizando o software Tableau; 
+- Os mapas foram construídos utilizando QGIS. 
 
 
 **CONTEÚDO DO REPOSITÓRIO**: 
