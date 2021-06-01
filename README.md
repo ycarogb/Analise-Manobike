@@ -1,6 +1,6 @@
 # Analise-de-dados-Sistema-Manobike
 
-Repositório comdados utilizados para elaboração do estudo intitulado "Sistema de Bicicletas Compartilhadas em Manaus: Desafios e oportunidades".
+Repositório com dados utilizados para elaboração do estudo intitulado "Sistema de Bicicletas Compartilhadas em Manaus: Desafios e oportunidades".
 
 O estudo  teve como objetivo analisar a oferta e demanda do sistema Manôbike, primeiro sistema de bicicletas compartilhadas a operar em Manaus (capital do Estado do Amazonas), que funcionou entre setembro de 2017 e outubro de 2019.
 
